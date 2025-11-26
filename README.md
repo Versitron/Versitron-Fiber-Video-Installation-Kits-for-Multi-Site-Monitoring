@@ -10,7 +10,7 @@ Versitron offers professional-grade **fiber-optic video transmission solutions**
 
 - Includes fiber transceivers/converters, required patch-cords, connectors, and cable for full installation  
 - Supports long-distance transmission via multimode or singlemode fiber ideal for linking cameras across campuses, facilities, or geographically separated sites  
-- Provides interference-free, stable video and data transport over fiber — suitable for security, industrial, campus, or city-wide surveillance setups  
+- Provides interference-free, stable video and data transport over fiber suitable for security, industrial, campus, or city-wide surveillance setups  
 - Modular and scalable — deploy for single-channel or expand to multi-channel as your monitoring network grows  
 
 Great for institutions, campuses, industrial sites, or multi-site enterprises needing centralized video monitoring over fiber.
