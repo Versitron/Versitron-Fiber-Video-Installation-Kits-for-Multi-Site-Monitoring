@@ -9,8 +9,8 @@ Versitron offers professional-grade **fiber-optic video transmission solutions**
 **Comprehensive fiber kits to connect multiple sites or locations using fiber optics.**
 
 - Includes fiber transceivers/converters, required patch-cords, connectors, and cable for full installation  
-- Supports long-distance transmission via multimode or singlemode fiber — ideal for linking cameras across campuses, facilities, or geographically separated sites :contentReference[oaicite:0]{index=0}  
-- Provides interference-free, stable video and data transport over fiber — suitable for security, industrial, campus, or city-wide surveillance setups :contentReference[oaicite:1]{index=1}  
+- Supports long-distance transmission via multimode or singlemode fiber — ideal for linking cameras across campuses, facilities, or geographically separated sites  
+- Provides interference-free, stable video and data transport over fiber — suitable for security, industrial, campus, or city-wide surveillance setups  
 - Modular and scalable — deploy for single-channel or expand to multi-channel as your monitoring network grows  
 
 Great for institutions, campuses, industrial sites, or multi-site enterprises needing centralized video monitoring over fiber.
@@ -21,9 +21,9 @@ Great for institutions, campuses, industrial sites, or multi-site enterprises ne
 
 **High-density, multi-camera video distribution over fiber for large surveillance deployments.**
 
-- Supports transmission of up to **8 video channels** (HD-CVI / AHD / analog hybrid) over a single fiber link :contentReference[oaicite:2]{index=2}  
-- Maintains video quality (720p / 1080p depending on camera) with uncompressed or digital-encoded video over fiber — ensuring low latency and high fidelity :contentReference[oaicite:3]{index=3}  
-- Reduces cabling complexity: multiple camera feeds can be consolidated onto one fiber, minimizing fiber runs and simplifying installation :contentReference[oaicite:4]{index=4}  
+- Supports transmission of up to **8 video channels** (HD-CVI / AHD / analog hybrid) over a single fiber link  
+- Maintains video quality (720p / 1080p depending on camera) with uncompressed or digital-encoded video over fiber — ensuring low latency and high fidelity  
+- Reduces cabling complexity: multiple camera feeds can be consolidated onto one fiber, minimizing fiber runs and simplifying installation  
 - Suitable for campuses, industrial facilities, city surveillance, multi-building security, or large-scale CCTV networks  
 
 Ideal when you have many cameras feeding into a central monitoring or recording station, and want efficient fiber-based video transport.
@@ -34,10 +34,10 @@ Ideal when you have many cameras feeding into a central monitoring or recording 
 
 **Fiber-optic video kits that support both video and PTZ control data — perfect for remote or smart surveillance.**
 
-- Many video-over-fiber converters support not just video but also control/data lines (e.g. RS-485 for PTZ) alongside analog/video feed over the same fiber path :contentReference[oaicite:5]{index=5}  
-- Enables remote pan-tilt-zoom (PTZ) control, data, and video transmission over long distances — even up to kilometers when using singlemode fiber :contentReference[oaicite:6]{index=6}  
-- Plug-and-play design with LED status indicators, no optical adjustments needed, simplifying deployment and maintenance :contentReference[oaicite:7]{index=7}  
-- Compatible with mixed video standards (HD-CVI, AHD, CVBS, etc.) — offers flexibility if your surveillance cameras are of different types :contentReference[oaicite:8]{index=8}  
+- Video-over-fiber converters that support not just video but also control/data lines (e.g. RS-485 for PTZ) alongside analog/video feed over the same fiber path  
+- Enables remote pan-tilt-zoom (PTZ) control, data, and video transmission over long distances — even up to kilometers when using singlemode fiber  
+- Plug-and-play design with LED status indicators, no optical adjustments needed, simplifying deployment and maintenance  
+- Compatible with mixed video standards (HD-CVI, AHD, CVBS, etc.) — offers flexibility if your surveillance cameras are of different types  
 
 Perfect for advanced security installations requiring remote control of cameras, such as perimeter monitoring, traffic surveillance, critical infrastructure, and large-scale CCTV systems.
 
