@@ -11,7 +11,7 @@ Versitron offers professional-grade **fiber-optic video transmission solutions**
 - Includes fiber transceivers/converters, required patch-cords, connectors, and cable for full installation  
 - Supports long-distance transmission via multimode or singlemode fiber ideal for linking cameras across campuses, facilities, or geographically separated sites  
 - Provides interference-free, stable video and data transport over fiber suitable for security, industrial, campus, or city-wide surveillance setups  
-- Modular and scalable — deploy for single-channel or expand to multi-channel as your monitoring network grows  
+- Modular and scalable deploy for single-channel or expand to multi-channel as your monitoring network grows  
 
 Great for institutions, campuses, industrial sites, or multi-site enterprises needing centralized video monitoring over fiber.
 
@@ -32,7 +32,7 @@ Ideal when you have many cameras feeding into a central monitoring or recording 
 
 ## HD-CVI Video Kits for PTZ Camera Support
 
-**Fiber-optic video kits that support both video and PTZ control data — perfect for remote or smart surveillance.**
+**Fiber-optic video kits that support both video and PTZ control data perfect for remote or smart surveillance.**
 
 - Video-over-fiber converters that support not just video but also control/data lines (e.g. RS-485 for PTZ) alongside analog/video feed over the same fiber path  
 - Enables remote pan-tilt-zoom (PTZ) control, data, and video transmission over long distances even up to kilometers when using singlemode fiber  
